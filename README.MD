@@ -42,7 +42,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um E-BOOK sobre o tema de Phyton, o ebook é o tema de nicho de Linguagem de programação e o subnincho é para iniciantes o título deve ser épico e curto e tenha uma temática mais NERD ( estilo Avangers por exemplo ) Liste 5 variações de Títulos                                                        |
 | conteúdo | Crie um texto para um Ebook chamado **"Dominando Python: Guia Prático de Estruturas e Funcionalidades Essenciais"**. O texto deve ensinar os conceitos fundamentais de Python, com as seguintes características:
-
 1. **Explicações Simples**: Explique cada conceito de maneira clara e acessível para iniciantes.
 2. **Texto Enxuto**: Foco na informação essencial, evitando explicações desnecessárias ou técnicas complexas.
 3. **Exemplos de Código**: Cada tópico deve conter exemplos práticos e reais que demonstrem o uso das funcionalidades no dia a dia.
@@ -56,7 +55,6 @@ ChatGPT：
         - Funções e Módulos
         - Manipulação de Arquivos
     - Encerramento com incentivo à prática e links de referência para estudo adicional.
-
 Gere o conteúdo completo do ebook de acordo com essas regras. |
 
 
