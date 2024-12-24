@@ -44,11 +44,15 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+LeonardoAI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create an 8-bit style image of Iron Man's helmet set against the vast, starry expanse of outer space, with vibrant, neon-like hues of blues and purples dominating the background, while the helmet itself is rendered in metallic shades of red and gold, its sleek curves and angular lines meticulously detailed in a pixelated aesthetic, complete with subtle, glowing accents on the mask and chin, evoking the retro charm of classic arcade graphics.
+ |
+
+
+
 
 ## ✨ Features
 
