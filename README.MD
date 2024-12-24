@@ -40,8 +40,24 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um E-BOOK sobre o tema de Phyton, o ebook é o tema de nicho de Linguagem de programação e o subnincho é para iniciantes o título deve ser épico e curto e tenha uma temática mais NERD ( estilo Avangers por exemplo ) Liste 5 variações de Títulos                                                        |
+| conteúdo | Crie um texto para um Ebook chamado **"Dominando Python: Guia Prático de Estruturas e Funcionalidades Essenciais"**. O texto deve ensinar os conceitos fundamentais de Python, com as seguintes características:
+
+1. **Explicações Simples**: Explique cada conceito de maneira clara e acessível para iniciantes.
+2. **Texto Enxuto**: Foco na informação essencial, evitando explicações desnecessárias ou técnicas complexas.
+3. **Exemplos de Código**: Cada tópico deve conter exemplos práticos e reais que demonstrem o uso das funcionalidades no dia a dia.
+4. **Títulos Sugestivos por Tópico**: Use títulos atraentes como "Manipulando Listas como um Pro", "Explorando Dicionários para Dados Mais Ricos" ou "Entendendo Laços com For e While".
+5. **Estrutura**:
+    - Introdução breve explicando o que é Python e suas principais aplicações.
+    - Uma lista de tópicos, com título, explicação e exemplo prático. Exemplos de tópicos:
+        - Variáveis e Tipos de Dados
+        - Listas, Tuplas e Dicionários
+        - Condicionais e Laços de Repetição
+        - Funções e Módulos
+        - Manipulação de Arquivos
+    - Encerramento com incentivo à prática e links de referência para estudo adicional.
+
+Gere o conteúdo completo do ebook de acordo com essas regras. |
 
 
 LeonardoAI：
